@@ -1,6 +1,8 @@
 {
-"employees":[
-    {"firstName":"John", "lastName":"Doe"}, 
-    {"firstName":"Anna", "lastName":"Smith"}, 
-    {"firstName":"Peter", "lastName":"Jones"}]
+	"query":[
+    "https://en.wikipedia.org/wiki/Wind_power",
+    "https://en.wikipedia.org/wiki/Wind_farm",
+    "https://en.wikipedia.org/wiki/Energy_development",
+    "https://en.wikipedia.org/wiki/Environmental_impact_of_wind_power",
+    "https://en.wikipedia.org/wiki/Sustainable_energy"]
 }
